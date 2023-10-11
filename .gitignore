@@ -1,0 +1,10 @@
+# Ignore all executable files
+*.exe
+*.out
+*.so
+*.dll
+
+# Ignore C++ executable files on macOS
+*.app
+
+.DS_Store
