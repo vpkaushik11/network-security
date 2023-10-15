@@ -1,4 +1,0 @@
-Implement HMAC with the following hashing techniques:
-a. MD5
-b. SHA-256
-c. Any new hashing technique you can come up with
